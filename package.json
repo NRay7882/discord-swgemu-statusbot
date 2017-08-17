@@ -1,0 +1,16 @@
+{
+    "name": "discord-statusbot-swgemu",
+    "version": "1.0.0",
+    "description": "",
+    "main": "bot.js",
+    "scripts": {
+        "statusbot": "nodemon bot.js"
+    },
+    "author": "NRay7882",
+    "license": "N/A",
+    "dependencies": {
+        "axios": "^0.16.2",
+        "cheerio": "^1.0.0-rc.2",
+        "discord.js": "^11.1.0"
+    }
+}

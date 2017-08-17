@@ -1,0 +1,5 @@
+{
+  "apitoken": "INSERT DISCORD API TOKEN HERE",
+  "prefix": "!status",
+  "sourceurl": "http://www.swgemu.com/forums/content.php"
+}
